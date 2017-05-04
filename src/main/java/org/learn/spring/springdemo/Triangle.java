@@ -17,6 +17,4 @@ public class Triangle {
 	public void setHeight(int height) {
 		this.height = height;
 	}
-	
-
 }
