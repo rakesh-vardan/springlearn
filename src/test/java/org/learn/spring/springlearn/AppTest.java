@@ -1,4 +1,4 @@
-package org.learn.spring.springdemo;
+package org.learn.spring.springlearn;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
