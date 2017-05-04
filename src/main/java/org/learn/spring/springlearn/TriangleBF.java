@@ -1,6 +1,6 @@
 package org.learn.spring.springlearn;
 
-public class Triangle {
+public class TriangleBF {
 	
 	private String type;
 	private int height;
@@ -16,5 +16,10 @@ public class Triangle {
 	}
 	public void setHeight(int height) {
 		this.height = height;
+	}
+	
+	public void draw()
+	{
+		System.out.println("Triangle drawn");
 	}
 }
